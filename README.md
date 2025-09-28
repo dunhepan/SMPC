@@ -1,2 +1,0 @@
-# SMPC
-personal blog
