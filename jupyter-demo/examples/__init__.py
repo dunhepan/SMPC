@@ -1,0 +1,1 @@
+# Make "examples" a package so we can run with: python -m examples.run_alice
